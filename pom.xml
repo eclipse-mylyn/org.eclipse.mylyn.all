@@ -4,9 +4,12 @@
 		 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.eclipse.mylyn</groupId>
-  <artifactId>org.eclipse.releng</artifactId>
+  <artifactId>org.eclipse.mylyn.all</artifactId>
   <version>3.7.0-SNAPSHOT</version>
   <packaging>pom</packaging>
+  <properties>
+	<explicit-target>true</explicit-target>
+  </properties>	
   <modules>
     <module>org.eclipse.mylyn</module>
     <module>org.eclipse.mylyn.commons</module>
