@@ -1,2 +1,7 @@
 /.commits.log
 /.commits.msg
+<<<<<<< HEAD
+=======
+/org.eclipse.mylyn.incubator
+/org.eclipse.mylyn.reviews.ui
+>>>>>>> origin/master
