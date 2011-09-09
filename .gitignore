@@ -1,6 +1,11 @@
 /.commits.log
 /.commits.msg
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+/org.eclipse.mylyn.incubator
+/org.eclipse.mylyn.reviews.ui
+>>>>>>> origin/master
 =======
 /org.eclipse.mylyn.incubator
 /org.eclipse.mylyn.reviews.ui
