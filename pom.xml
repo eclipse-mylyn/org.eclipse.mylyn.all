@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.eclipse.mylyn.all</groupId>
   <artifactId>org.eclipse.releng</artifactId>
-  <version>3.6.3-SNAPSHOT</version>
+  <version>3.6.4-SNAPSHOT</version>
   <packaging>pom</packaging>
   <modules>
 	<module>org.eclipse.mylyn/org.eclipse.mylyn.releng/target-definition</module>
