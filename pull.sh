@@ -5,3 +5,7 @@ echo Entering \'$i\'
 git pull
 cd ..
 done
+
+cd org.eclipse.mylyn.context
+git fetch --all
+git merge origin/master
