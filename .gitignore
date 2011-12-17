@@ -1,4 +1,5 @@
 /.commits.log
 /.commits.msg
+/org.eclipse.mylyn.context.mft
 /org.eclipse.mylyn.incubator
 /org.eclipse.mylyn.reviews.ui
