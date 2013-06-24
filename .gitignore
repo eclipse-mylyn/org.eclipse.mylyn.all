@@ -1,7 +1,10 @@
 /.commits.log
 /.commits.msg
+/mft
+/mylyn
 /org.eclipse.mylyn.context.mft
 /org.eclipse.mylyn.incubator
 /org.eclipse.mylyn.reviews.r4e
 /org.eclipse.mylyn.reviews.ui
 /target
+*~
