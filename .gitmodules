@@ -1,32 +1,32 @@
 [submodule "org.eclipse.mylyn"]
 	path = org.eclipse.mylyn
-	url = ../org.eclipse.mylyn.git
+	url = ../../mylyn/org.eclipse.mylyn.git
 	branch = .
 [submodule "org.eclipse.mylyn.builds"]
 	path = org.eclipse.mylyn.builds
-	url = ../org.eclipse.mylyn.builds
+	url = ../../mylyn/org.eclipse.mylyn.builds
 	branch = .
 [submodule "org.eclipse.mylyn.commons"]
 	path = org.eclipse.mylyn.commons
-	url = ssh://git.eclipse.org:29418/mylyn/org.eclipse.mylyn.commons
+	url = ../../mylyn/org.eclipse.mylyn.commons
 	branch = .
 [submodule "org.eclipse.mylyn.context"]
 	path = org.eclipse.mylyn.context
-	url = ../org.eclipse.mylyn.context.git
+	url = ../../mylyn/org.eclipse.mylyn.context.git
 	branch = .
 [submodule "org.eclipse.mylyn.docs"]
 	path = org.eclipse.mylyn.docs
-	url = ../org.eclipse.mylyn.docs.git
+	url = ../../mylyn/org.eclipse.mylyn.docs.git
 	branch = .
 [submodule "org.eclipse.mylyn.tasks"]
 	path = org.eclipse.mylyn.tasks
-	url = ../org.eclipse.mylyn.tasks.git
+	url = ../../mylyn/org.eclipse.mylyn.tasks.git
 	branch = .
 [submodule "org.eclipse.mylyn.versions"]
 	path = org.eclipse.mylyn.versions
-	url = ../org.eclipse.mylyn.versions.git
+	url = ../../mylyn/org.eclipse.mylyn.versions.git
 	branch = .
 [submodule "org.eclipse.mylyn.reviews"]
 	path = org.eclipse.mylyn.reviews
-	url = ../org.eclipse.mylyn.reviews.git
+	url = ../../mylyn/org.eclipse.mylyn.reviews.git
 	branch = .
