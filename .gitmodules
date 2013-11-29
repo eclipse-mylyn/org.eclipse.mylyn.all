@@ -2,17 +2,17 @@
 	path = org.eclipse.mylyn
 	url = ../org.eclipse.mylyn.git
 	branch = .
+[submodule "org.eclipse.mylyn.builds"]
+	path = org.eclipse.mylyn.builds
+	url = ../org.eclipse.mylyn.builds
+	branch = .
 [submodule "org.eclipse.mylyn.commons"]
 	path = org.eclipse.mylyn.commons
-	url = ../org.eclipse.mylyn.commons.git
+	url = ssh://git.eclipse.org:29418/mylyn/org.eclipse.mylyn.commons
 	branch = .
 [submodule "org.eclipse.mylyn.context"]
 	path = org.eclipse.mylyn.context
 	url = ../org.eclipse.mylyn.context.git
-	branch = .
-[submodule "org.eclipse.mylyn.builds"]
-	path = org.eclipse.mylyn.builds
-	url = ../org.eclipse.mylyn.builds.git
 	branch = .
 [submodule "org.eclipse.mylyn.docs"]
 	path = org.eclipse.mylyn.docs
