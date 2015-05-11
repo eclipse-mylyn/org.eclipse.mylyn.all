@@ -4,11 +4,11 @@
 	branch = .
 [submodule "org.eclipse.mylyn.builds"]
 	path = org.eclipse.mylyn.builds
-	url = ../../mylyn/org.eclipse.mylyn.builds
+	url = ../../mylyn/org.eclipse.mylyn.builds.git
 	branch = .
 [submodule "org.eclipse.mylyn.commons"]
 	path = org.eclipse.mylyn.commons
-	url = ../../mylyn/org.eclipse.mylyn.commons
+	url = ../../mylyn/org.eclipse.mylyn.commons.git
 	branch = .
 [submodule "org.eclipse.mylyn.context"]
 	path = org.eclipse.mylyn.context
