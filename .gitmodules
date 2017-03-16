@@ -35,5 +35,4 @@
 [submodule "org.eclipse.mylyn.reviews"]
 	path = org.eclipse.mylyn.reviews
 	url = ../../mylyn/org.eclipse.mylyn.reviews.git
-	revision = .
-	branch = e_4_7_m_3_22_x
+	branch = .
