@@ -21,7 +21,7 @@
 [submodule "org.eclipse.mylyn.docs"]
 	path = org.eclipse.mylyn.docs
 	url = ../../mylyn/org.eclipse.mylyn.docs.git
-	branch = .
+	branch = master
 [submodule "org.eclipse.mylyn.tasks"]
 	path = org.eclipse.mylyn.tasks
 	url = ../../mylyn/org.eclipse.mylyn.tasks.git
@@ -30,7 +30,7 @@
 [submodule "org.eclipse.mylyn.versions"]
 	path = org.eclipse.mylyn.versions
 	url = ../../mylyn/org.eclipse.mylyn.versions.git
-	branch = .
+	branch = master
 [submodule "org.eclipse.mylyn.reviews"]
 	path = org.eclipse.mylyn.reviews
 	url = ../../mylyn/org.eclipse.mylyn.reviews.git
