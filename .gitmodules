@@ -1,19 +1,23 @@
 [submodule "org.eclipse.mylyn"]
 	path = org.eclipse.mylyn
 	url = ../../mylyn/org.eclipse.mylyn.git
-	branch = master
+	revision = .
+	branch = m_3_25_x
 [submodule "org.eclipse.mylyn.builds"]
 	path = org.eclipse.mylyn.builds
 	url = ../../mylyn/org.eclipse.mylyn.builds.git
-	branch = master
+	revision = .
+	branch = m_3_25_x
 [submodule "org.eclipse.mylyn.commons"]
 	path = org.eclipse.mylyn.commons
 	url = ../../mylyn/org.eclipse.mylyn.commons.git
-	branch = master
+	revision = .
+	branch = m_3_25_x
 [submodule "org.eclipse.mylyn.context"]
 	path = org.eclipse.mylyn.context
 	url = ../../mylyn/org.eclipse.mylyn.context.git
-	branch = master
+	revision = .
+	branch = m_3_25_x
 [submodule "org.eclipse.mylyn.docs"]
 	path = org.eclipse.mylyn.docs
 	url = ../../mylyn/org.eclipse.mylyn.docs.git
@@ -21,7 +25,8 @@
 [submodule "org.eclipse.mylyn.tasks"]
 	path = org.eclipse.mylyn.tasks
 	url = ../../mylyn/org.eclipse.mylyn.tasks.git
-	branch = master
+	revision = .
+	branch = m_3_25_x
 [submodule "org.eclipse.mylyn.versions"]
 	path = org.eclipse.mylyn.versions
 	url = ../../mylyn/org.eclipse.mylyn.versions.git
@@ -29,4 +34,5 @@
 [submodule "org.eclipse.mylyn.reviews"]
 	path = org.eclipse.mylyn.reviews
 	url = ../../mylyn/org.eclipse.mylyn.reviews.git
-	branch = master
+	revision = .
+	branch = m_3_25_x
