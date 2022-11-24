@@ -1,0 +1,24 @@
+[submodule "org.eclipse.mylyn"]
+	path = org.eclipse.mylyn
+	url = git@github.com:eclipse-mylyn/org.eclipse.mylyn.git
+[submodule "org.eclipse.mylyn.build"]
+	path = org.eclipse.mylyn.build
+	url = git@github.com:eclipse-mylyn/org.eclipse.mylyn.builds.git
+[submodule "org.eclipse.mylyn.commons"]
+	path = org.eclipse.mylyn.commons
+	url = git@github.com:eclipse-mylyn/org.eclipse.mylyn.commons.git
+[submodule "org.eclipse.mylyn.docs"]
+	path = org.eclipse.mylyn.docs
+	url = git@github.com:eclipse-mylyn/org.eclipse.mylyn.docs.git
+[submodule "org.eclipse.mylyn.context"]
+	path = org.eclipse.mylyn.context
+	url = git@github.com:eclipse-mylyn/org.eclipse.mylyn.context.git
+[submodule "org.eclipse.mylyn.task"]
+	path = org.eclipse.mylyn.task
+	url = git@github.com:eclipse-mylyn/org.eclipse.mylyn.tasks.git
+[submodule "org.eclipse.mylyn.versions"]
+	path = org.eclipse.mylyn.versions
+	url = git@github.com:eclipse-mylyn/org.eclipse.mylyn.versions.git
+[submodule "org.eclipse.mylyn.reviews"]
+	path = org.eclipse.mylyn.reviews
+	url = git@github.com:eclipse-mylyn/org.eclipse.mylyn.reviews.git
