@@ -3,7 +3,7 @@
 	url = git@github.com:eclipse-mylyn/org.eclipse.mylyn.git
 [submodule "org.eclipse.mylyn.builds"]
 	path = org.eclipse.mylyn.builds
-	url = git@github.com:eclipse-mylyn/org.eclipse.mylyn.all.git
+	url = git@github.com:eclipse-mylyn/org.eclipse.mylyn.builds.git
 [submodule "org.eclipse.mylyn.commons"]
 	path = org.eclipse.mylyn.commons
 	url = git@github.com:eclipse-mylyn/org.eclipse.mylyn.commons.git
