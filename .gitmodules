@@ -1,24 +1,32 @@
 [submodule "org.eclipse.mylyn"]
 	path = org.eclipse.mylyn
-	url = git@github.com:eclipse-mylyn/org.eclipse.mylyn.git
+	url = ../org.eclipse.mylyn.git
+	branch = master
 [submodule "org.eclipse.mylyn.builds"]
 	path = org.eclipse.mylyn.builds
-	url = git@github.com:eclipse-mylyn/org.eclipse.mylyn.builds.git
+	url = ../org.eclipse.mylyn.builds.git
+	branch = master
 [submodule "org.eclipse.mylyn.commons"]
 	path = org.eclipse.mylyn.commons
-	url = git@github.com:eclipse-mylyn/org.eclipse.mylyn.commons.git
+	url = ../org.eclipse.mylyn.commons.git
+	branch = master
 [submodule "org.eclipse.mylyn.docs"]
 	path = org.eclipse.mylyn.docs
-	url = git@github.com:eclipse-mylyn/org.eclipse.mylyn.docs.git
+	url = ../org.eclipse.mylyn.docs.git
+	branch = master
 [submodule "org.eclipse.mylyn.context"]
 	path = org.eclipse.mylyn.context
-	url = git@github.com:eclipse-mylyn/org.eclipse.mylyn.context.git
+	url = ../org.eclipse.mylyn.context.git
+	branch = master
 [submodule "org.eclipse.mylyn.tasks"]
 	path = org.eclipse.mylyn.tasks
-	url = git@github.com:eclipse-mylyn/org.eclipse.mylyn.tasks.git
+	url = ../org.eclipse.mylyn.tasks.git
+	branch = master
 [submodule "org.eclipse.mylyn.versions"]
 	path = org.eclipse.mylyn.versions
-	url = git@github.com:eclipse-mylyn/org.eclipse.mylyn.versions.git
+	url = ../org.eclipse.mylyn.versions.git
+	branch = master
 [submodule "org.eclipse.mylyn.reviews"]
 	path = org.eclipse.mylyn.reviews
-	url = git@github.com:eclipse-mylyn/org.eclipse.mylyn.reviews.git
+	url = ../org.eclipse.mylyn.reviews.git
+	branch = master
